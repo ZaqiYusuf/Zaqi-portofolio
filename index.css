@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans+Condensed:ital,wght@1,300&display=swap');
+
+* {
+    font-family: 'Open Sans Condensed', sans-serif;
+}
+
+
+.background {
+    background-color: rgb(243, 234, 180);
+}
+
+.name {
+    background-color: rgb(179, 184, 184);
+    font-size: 50px;
+    font-weight: 100;
+    line-height: 90px;
+    border-radius: 25%;
+    padding-left: 225px;
+
+}
+.gambar {
+    /* text-align: center; */
+    width: 50px;
+    weight: 50px
+    max-height: 50px;
+    max-widht: 50px;
+}
+
+/* .ukuran-gambar {
+    width: px;
+    height: px;
+} */
+
+.nama {
+    background-color: rgb(240, 133, 84);
+    font-size: 50px;
+    font-weight: 100;
+    line-height: 90px;
+    border-radius: 25%;
+    padding-left: 275px;
+
+}
+
+/* .kotak{
+    background-color: var(--warnamerah)
+}
+.kotak{
+    background-color: var(--warnamerah)
+}
+.kotak{
+    background-color: var(--warnamerah)
+}
+.kotak{
+    background-color: var(--warnamerah)
+}
+
+:root {
+    --warnamerah: red;
+    --warnabiru: blue;
+    --warnahijau: green;
+    --lebarkotak: 300px;
+    --tinggikotak: 300px;
+}
+
+.kotak-1 {
+    width: var(--lebarkotak);
+    height: var(--tinggikotak);
+    margin: 1px;
+    background-color: var(--warnamerah);
+}
+
+.kotak-2 {
+    width: var(--lebarkotak);
+    height: var(--tinggikotak);
+    margin: 10px;
+    background-color: var(--warnabiru);
+}
+
+.kotak-3 {
+    width: var(--lebarkotak);
+    height: var(--tinggikotak);
+    margin: 10px;
+    background-color: var(--warnahijau);
+} */
+ 
+.kolom1 {
+    background-color: rgb(241, 135, 121);
+}
+.kolom2 {
+    background-color: rgb(187, 212, 126);
+}
+.kolom3 {
+    background-color: rgb(161, 174, 199);
+}
